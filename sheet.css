@@ -1,0 +1,178 @@
+body{
+    background-image:url(images/home.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#heading{
+    font-family:cursive;
+	color:orangered;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.menu{
+	border:2px solid white;
+    text-emphasis-color: aliceblue;
+	height:80px;    
+}
+
+.menu a {
+    color: white;
+    font-family:'lucida sans unicode'';
+    font-weight:bold;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    color:aqua;  
+	font-family: cursive;
+	font-size:40px;
+}
+
+.rightNav{
+	padding-right: 5px;
+}
+
+.h1{
+	color:bisque;
+}
+
+#form{
+    font-size: 30px;
+    font-family:'lucida sans unicode';
+    text-align: center;
+    border: 2px solid orange;
+    width: 500px;
+    height: 590px;
+    padding: 30px;
+    align-content: center;
+    box-shadow: 0px 10px 50px -4px; 
+    border-radius: 7px;
+	color:bisque;
+}
+
+#form input{
+	width:100%;
+    height: 30px;
+    border-radius: 8px;
+    background-color: ghostwhite;
+    font-size: 18px;
+    font-family: 'georgia';
+}
+
+#form #message{
+    border-radius: 8px;
+    background-color: ghostwhite;
+    font-size: 18px;
+    font-family: 'georgia';
+}
+
+#form #submit{
+    width: 500px;
+    height: 40px;
+    font-size: 22px;
+    font-family: monospace;
+    background-color: orangered;
+    color: white;    
+}
+
+article{
+	font-size: 20px;
+    color:aliceblue;
+	border:2px;
+}
+article h1{
+	font-size: 45px;
+}
+
+
+ul{
+	font-size:35px;
+	color:antiquewhite;
+}
+
+aside a{
+    text-decoration: none;
+}
+
+.td1, .td2{
+	border:2px solid white;
+}
+
+#hr{
+    background-color: gray;
+	width: 280px;
+    height: 3px;
+}
+
+#top{
+    font-weight: bold;
+    color:azure;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 30px;
+}
+
+.options a{
+    color:bisque;
+    font-family: monospace;
+    font-size: 28px;
+}
+
+.options a:hover{
+    color:sandybrown;
+}
+
+#gencon{
+    margin-left: 50px;
+    color: floralwhite;
+    font-family: monospace;
+    font-size: 18px;
+	text-decoration: none;
+}
+
+#gencon b{
+	font-size:25px;
+	color:antiquewhite;
+}
+
+#guide, #general, #kids,#medicine, #corporate{
+    margin-top: 100px;	
+	margin-left: 30px;
+	font-size: 25px;
+    font-family: 'lucida sans unicode';
+    color:darkorange;	
+}
+
+.corporateyoga{
+	font-size: 20px;
+}
+
+#go{
+    font-size:30px;
+    text-decoration:none;
+    color:aquamarine;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#go : hover{
+    color:darkgray;
+	font-size: 30px;
+}
+
+footer{
+    padding:5px 5px 5px 5px;
+    background-color: lightgrey;
+    font-family: "lucida sans unicode";
+	text-align:left; 
+}
+
+footer a, #bvcoe, #gmail{
+	text-decoration: none;
+	color: black;
+}
