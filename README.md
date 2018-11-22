@@ -1,3 +1,2 @@
 # Yoga-Webpage
-
-Simple yoga webpage
+A simple wrbpage for people interested in practising and gaining knowledge in Yoga. 
