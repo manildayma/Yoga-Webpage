@@ -14,3 +14,11 @@ weight reduction
 cardio and circulatory health
 improved athletic performance
 protection from injury
+is good for health
+improves focus
+
+## Perssonal Experience
+
+yoga has improved my overall performance
+the purpose of yoga is to improve strength, awareness and harmony in both mind and body.
+
